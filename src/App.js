@@ -9,6 +9,7 @@ import HallOfFame, { FAKE_HOF } from './HallOfFame'
 const SIDE = 6
 const SYMBOLS = '😀🎉💖🎩🐶🐱🦄🐬🌍🌛🌞💫🍎🍌🍓🍐🍟🍿'
 
+
 class App extends Component {
 	cards = this.generateCards()
 
