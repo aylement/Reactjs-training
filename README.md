@@ -1,3 +1,8 @@
+Ceci est le projet de Memory du cours OpenClassrooms sur ReactJS trouvable à cette adrese : https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js (n'hésitez pas à me prévenir si le lien n'est plus d'actualité)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
